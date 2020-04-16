@@ -19,4 +19,4 @@ Annotated task-dataset pairs.
 
 ## Data.gov Colletion
 
-can be canloaded at http://www.cse.lehigh.edu/~brian/data/ecir2020_datagov.zip
+The collection can be downloaded at http://www.cse.lehigh.edu/~brian/data/ecir2020_datagov.zip.

@@ -15,3 +15,8 @@ Annotated task-dataset pairs.
 "data_path" is the relative path from the decompressed dataset directory(will be released later) to the dataset file.
 "score" is the average task-dataset relevance score from annotators.
 "data_url" is the origin link to download this dataset.
+
+
+## Data.gov Colletion
+
+can be canloaded at http://www.cse.lehigh.edu/~brian/data/ecir2020_datagov.zip
